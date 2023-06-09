@@ -70,7 +70,14 @@ Stop Time	2023-06-07T04:35:29.0607997Z
 | AzureNetworkAnalytics_CL | 0
 
 ## Incident Response - NIST 800-61
-![Incident Response](https://i.imgur.com/fwuxKP5.png)
+![Incident Response](https://i.imgur.com/fwuxKP5.png)<br>
+
+Detection and analysis:
+ - Assigned security alert to an owner, the status to active. 
+ - Reviewing alert overiview. Identifying which event triggered the alert. 
+ - Observe the entity and incident timeline. Identify network resource, source IP of attacker, identify Geo-data. 
+ - Review if attacker has any related alerts or impacted any other network resources. 
+ - Determine the legitamcy of the incident - Review KQL query that created the rule to trigger the incident.
 
 ## Conclusion
 
