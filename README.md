@@ -70,7 +70,7 @@ Stop Time	2023-06-07T04:35:29.0607997Z
 | AzureNetworkAnalytics_CL | 0
 
 ## Incident Response - NIST 800-61
-![Incident Response Process] (https://imgur.com/fwuxKP5)<br>
+![Imgur](https://i.imgur.com/fwuxKP5.png)
 
 ## Conclusion
 
